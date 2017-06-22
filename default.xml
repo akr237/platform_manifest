@@ -19,7 +19,8 @@
 
   <remote  name="FireHound"
            fetch="https://github.com/FireHound"
-           revision="7.1" />
+           revision="7.1" 
+           review="review.firehound.me" />            
 
   <default revision="refs/heads/cm-14.1"
            remote="github"
