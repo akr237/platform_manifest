@@ -1,0 +1,5 @@
+[gerrit]
+host=review.firehound.me
+port=29418
+project=platform_manifest.git
+defaultbranch=7.1
