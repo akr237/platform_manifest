@@ -24,13 +24,13 @@ To Build:
 Gerrit Code Review
 ------------------
 Every single patch is welcomed to our Gerrit.
-To start contributing to FireHound Gerrit register yourself at
+To start contributing to FireHound Gerrit register yourself using Github or Google OAUTH at 
 
-    review.firehound.me
+    http://review.firehound.me
 
 To add SSH keys:
 
-    ssh-keygen
+    ssh-keygen -t rsa 
 
 Copy the public key to our Gerrit using:
 
